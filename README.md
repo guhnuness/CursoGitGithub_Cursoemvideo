@@ -1,2 +1,2 @@
 # OlaMundo
- Primeiro Repositório de Curso de Git e Gihub
+ Primeiro Repositório de Curso de Git e Github
